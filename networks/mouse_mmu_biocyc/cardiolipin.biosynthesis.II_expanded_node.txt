@@ -1,0 +1,3 @@
+gene	node_type
+PGS1	gene
+PGS1	PPI

@@ -1,0 +1,10 @@
+gene	node_type
+MTHFD1L	gene
+FPGS	gene
+SHMT1	gene
+SHMT2	gene
+MTHFD1L	PPI
+FPGS	PPI
+SHMT1	PPI
+SHMT2	PPI
+SET	PPI

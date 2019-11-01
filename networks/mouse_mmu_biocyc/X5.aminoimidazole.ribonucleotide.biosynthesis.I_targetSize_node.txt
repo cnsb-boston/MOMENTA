@@ -1,0 +1,5 @@
+gene	node_type
+PFAS	gene
+PPAT	gene
+PFAS	PPI
+PPAT	PPI

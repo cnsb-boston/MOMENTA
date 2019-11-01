@@ -1,0 +1,14 @@
+V1	V2
+Bckdhb	Stat4
+Dld	HSD17B10
+Dld	Kcnma1
+Dld	Hspb2
+Dld	Htt
+Dld	Nphs2
+Dbt	Eed
+Dbt	Cebpa
+Dbt	Ubc
+Dbt	HSD17B10
+Dbt	Foxp3
+Dbt	Pou5f1
+Dbt	SH3KBP1

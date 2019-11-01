@@ -1,0 +1,8 @@
+gene	node_type
+PGM	gene
+PGM	PPI
+TRS33	PPI
+CG7352	PPI
+CI	PPI
+TEKTIN-C	PPI
+ATL	PPI

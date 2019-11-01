@@ -1,0 +1,10 @@
+gene	node_type
+PPOX	gene
+UROD	gene
+CPOX	gene
+FECH	gene
+PPOX	PPI
+UROD	PPI
+CPOX	PPI
+FECH	PPI
+HSPB2	PPI

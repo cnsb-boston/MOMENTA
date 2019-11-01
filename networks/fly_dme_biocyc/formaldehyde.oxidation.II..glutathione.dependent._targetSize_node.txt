@@ -1,0 +1,4 @@
+gene	node_type
+DMEL\CG4390	gene
+CG4390-RB	gene
+DMEL\CG4390	PPI

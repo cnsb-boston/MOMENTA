@@ -1,0 +1,10 @@
+gene	node_type
+MPI	gene
+PGI	gene
+MPI	PPI
+PGI	PPI
+SRC64B	PPI
+OVO	PPI
+HR3	PPI
+COX6B	PPI
+EIF4G2	PPI

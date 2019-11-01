@@ -1,0 +1,8 @@
+gene	node_type
+RFK	gene
+FLAD1	gene
+RFK	PPI
+FLAD1	PPI
+TRADD	PPI
+TNFRSF1A	PPI
+CYBA	PPI

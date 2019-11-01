@@ -1,0 +1,4 @@
+V1	V2
+Scp2	Stat3
+Scp2	NA
+Scp2	Cav1

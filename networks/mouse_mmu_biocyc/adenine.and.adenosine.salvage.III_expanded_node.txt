@@ -1,0 +1,11 @@
+gene	node_type
+PNP	gene
+PNP2	gene
+HPRT	gene
+HPRT1	gene
+ADA	gene
+PNP	PPI
+PNP2	PPI
+HPRT	PPI
+HPRT1	PPI
+ADA	PPI

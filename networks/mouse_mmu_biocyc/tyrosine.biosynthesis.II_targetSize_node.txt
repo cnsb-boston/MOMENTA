@@ -1,0 +1,3 @@
+gene	node_type
+PAH	gene
+PAH	PPI

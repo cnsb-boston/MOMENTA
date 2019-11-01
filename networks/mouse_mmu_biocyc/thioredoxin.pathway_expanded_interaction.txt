@@ -1,0 +1,4 @@
+V1	V2
+Txnrd1	Cav1
+Txnrd2	Pcbp1
+Txnrd3	Rabl2

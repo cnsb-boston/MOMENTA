@@ -1,0 +1,9 @@
+gene	node_type
+PCYT2	gene
+SELENOI	gene
+ETNK2	gene
+ETNK1	gene
+PCYT2	PPI
+SELENOI	PPI
+ETNK2	PPI
+ETNK1	PPI

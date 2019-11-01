@@ -1,0 +1,6 @@
+gene	node_type
+FUK	gene
+FPGT	gene
+FUK	PPI
+FPGT	PPI
+IRF8	PPI

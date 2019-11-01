@@ -1,0 +1,9 @@
+gene	node_type
+CTH	gene
+CBS	gene
+CTH	PPI
+CBS	PPI
+RELA	PPI
+TOMM20	PPI
+GAPDH	PPI
+CRY1	PPI

@@ -1,0 +1,4 @@
+V1	V2
+Aprt	PRKAA1
+Aprt	Eed
+Aprt	Kcnma1

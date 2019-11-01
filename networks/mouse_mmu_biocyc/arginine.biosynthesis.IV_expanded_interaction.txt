@@ -1,0 +1,14 @@
+V1	V2
+Oat	HSD17B10
+Oat	Kcnma1
+Asl	HSD17B10
+Glud1	Nphp4
+Glud1	SIRT4
+Glud1	Iqcb1
+Glud1	Ripk3
+Glud1	Sirt4
+Glud1	Kcnma1
+Ass1	HSD17B10
+Ass1	Hdac2
+Ass1	Hdac1
+Ass1	Clock

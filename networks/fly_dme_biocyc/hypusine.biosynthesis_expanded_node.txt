@@ -1,0 +1,5 @@
+gene	node_type
+NERO	gene
+DMEL\CG8005	gene
+NERO	PPI
+DMEL\CG8005	PPI

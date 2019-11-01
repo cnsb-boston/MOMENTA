@@ -1,0 +1,6 @@
+V1	V2
+SamDC	eyg
+SamDC	Spt
+SpdS	Rtnl1
+SpdS	Drep1
+SpdS	GlnRS

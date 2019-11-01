@@ -1,0 +1,10 @@
+V1	V2
+P5cr-2	P5cr-2
+P5cr-2	opa
+P5cr-2	CycK
+P5cr-2	CG1635
+P5cr-2	CG7379
+P5cr	P5cr
+P5cr	CG11275
+Oat	NA
+Oat	Pms2

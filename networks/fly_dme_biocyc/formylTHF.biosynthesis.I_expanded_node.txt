@@ -1,0 +1,12 @@
+gene	node_type
+TS	gene
+SHMT	gene
+DHFR	gene
+TS	PPI
+SHMT	PPI
+DHFR	PPI
+H2.0	PPI
+EPAC	PPI
+RBP4	PPI
+VG	PPI
+CG11999	PPI

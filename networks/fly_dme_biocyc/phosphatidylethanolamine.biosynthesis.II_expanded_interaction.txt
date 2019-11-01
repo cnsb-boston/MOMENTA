@@ -1,0 +1,5 @@
+V1	V2
+eas	Hsp27
+eas	CG8993
+eas	RpS3
+eas	CG12321

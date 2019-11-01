@@ -1,0 +1,9 @@
+gene	node_type
+GEP4	gene
+PGS1	gene
+GLC7	PPI
+SSB2	PPI
+SRP54	PPI
+YAP7	PPI
+SSB1	PPI
+IES3	PPI

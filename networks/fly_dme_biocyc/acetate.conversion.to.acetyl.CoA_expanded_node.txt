@@ -1,0 +1,6 @@
+gene	node_type
+ACCOAS	gene
+ACCOAS	PPI
+CG2025	PPI
+SLMB	PPI
+VAMP7	PPI

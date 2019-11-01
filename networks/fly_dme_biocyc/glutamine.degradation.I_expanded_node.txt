@@ -1,0 +1,3 @@
+gene	node_type
+GLS	gene
+CG32086	PPI

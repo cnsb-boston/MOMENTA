@@ -1,0 +1,9 @@
+gene	node_type
+PNMT	gene
+TH	gene
+DBH	gene
+DDC	gene
+PNMT	PPI
+TH	PPI
+DBH	PPI
+DDC	PPI

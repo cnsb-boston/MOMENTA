@@ -1,0 +1,11 @@
+V1	V2
+Abhd5	Pnpla2
+Abhd5	Plin2
+Abhd5	Plin5
+Abhd5	Plin1
+Agpat5	Eed
+Agpat5	Ubc
+Gpam	Eed
+Gpat2	Piwil2
+Cds2	Stat4
+Cds2	Lnx2

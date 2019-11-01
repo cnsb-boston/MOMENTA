@@ -1,0 +1,12 @@
+V1	V2
+Pycr2	Eed
+Pycr2	Cebpa
+Pycr1	Pycr1
+Arg2	HSD17B10
+Arg1	Cebpb
+Arg1	Nphp4
+Arg1	Stat6
+Arg1	Irf8
+Arg1	Spi1
+Oat	HSD17B10
+Oat	Kcnma1

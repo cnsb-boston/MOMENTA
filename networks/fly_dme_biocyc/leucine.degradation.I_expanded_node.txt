@@ -1,0 +1,5 @@
+gene	node_type
+L(2)04524	gene
+CG1673	gene
+L(2)04524	PPI
+CG1673	PPI

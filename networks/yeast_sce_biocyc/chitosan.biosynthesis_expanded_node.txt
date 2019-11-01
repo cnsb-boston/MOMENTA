@@ -1,0 +1,8 @@
+gene	node_type
+CDA1	gene
+CDA2	gene
+KSS1	PPI
+CDC28	PPI
+CMK1	PPI
+CMK2	PPI
+GUP1	PPI

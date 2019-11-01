@@ -1,0 +1,3 @@
+gene	node_type
+TRPT1	gene
+TRPT1	PPI

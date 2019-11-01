@@ -1,0 +1,11 @@
+gene	node_type
+TYMP	gene
+TK1A	gene
+TK1B	gene
+TK1	gene
+TK2	gene
+TYMP	PPI
+TK1A	PPI
+TK1B	PPI
+TK1	PPI
+TK2	PPI

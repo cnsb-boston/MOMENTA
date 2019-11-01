@@ -1,0 +1,6 @@
+gene	node_type
+C62E-15	gene
+DMEL\CG16758	gene
+CG16760	gene
+C62E-15	PPI
+DMEL\CG16758	PPI

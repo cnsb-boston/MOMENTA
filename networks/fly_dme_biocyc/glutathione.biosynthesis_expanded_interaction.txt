@@ -1,0 +1,6 @@
+V1	V2
+Gclm	Gclc
+Gclm	Efa6
+Gclm	CG14853
+Gclm	SmB
+Gclc	Gclm

@@ -1,0 +1,8 @@
+gene	node_type
+DMEL\CG8080	gene
+CT19307	gene
+CG30346	gene
+CG6152	gene
+DMEL\CG6145	gene
+DMEL\CG8080	PPI
+DMEL\CG6145	PPI

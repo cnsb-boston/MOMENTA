@@ -1,0 +1,7 @@
+V1	V2
+Gck	Wasf1
+Gck	Brms1
+Gck	Prkaca
+Gck	Bad
+Gck	Gckr
+Gck	Gm5601

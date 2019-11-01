@@ -1,0 +1,11 @@
+gene	node_type
+MPI	gene
+PMM1	gene
+PMM2	gene
+GMPPB	gene
+MPI	PPI
+PMM1	PPI
+PMM2	PPI
+GMPPB	PPI
+ANKRD1	PPI
+IKBKB	PPI

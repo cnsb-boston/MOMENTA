@@ -1,0 +1,7 @@
+gene	node_type
+SAMDC	gene
+SMS	gene
+SAMDC	PPI
+SMS	PPI
+EYG	PPI
+SPT	PPI

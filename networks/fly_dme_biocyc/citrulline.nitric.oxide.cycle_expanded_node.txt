@@ -1,0 +1,9 @@
+gene	node_type
+ARGL	gene
+ASS	gene
+NOS	gene
+ARGL	PPI
+ASS	PPI
+NOS	PPI
+NULL	PPI
+SPF45	PPI

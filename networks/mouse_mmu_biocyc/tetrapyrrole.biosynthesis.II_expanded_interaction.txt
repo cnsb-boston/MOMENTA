@@ -1,0 +1,9 @@
+V1	V2
+Hmbs	Ranbp9
+Alas2	Nfe2
+Alas1	Nab2
+Alas1	Egr1
+Alas1	Nab1
+Alad	HSD17B10
+Alad	Alad
+Alad	Kcnma1

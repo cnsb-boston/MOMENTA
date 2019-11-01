@@ -1,0 +1,5 @@
+gene	node_type
+QPRT	gene
+NADSYN1	gene
+QPRT	PPI
+NADSYN1	PPI

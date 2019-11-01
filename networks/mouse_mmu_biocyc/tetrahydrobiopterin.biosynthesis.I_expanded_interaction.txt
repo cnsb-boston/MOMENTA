@@ -1,0 +1,9 @@
+V1	V2
+Spr	Kcnma1
+Gch1	Ubc
+Pts	NA
+Pts	Pts
+Pts	Fndc5
+Pts	Mid1ip1
+Pts	Gnpat
+Pts	Bgn

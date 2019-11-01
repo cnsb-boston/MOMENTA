@@ -1,0 +1,6 @@
+V1	V2
+Gpx4	Eed
+Gpx8	Stat4
+Gpx1	Mien1
+Gpx1	Kcnma1
+Gpx1	HSD17B10

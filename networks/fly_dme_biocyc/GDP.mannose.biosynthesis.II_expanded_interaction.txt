@@ -1,0 +1,6 @@
+V1	V2
+Pgi	Src64B
+Pgi	ovo
+Pgi	Hr3
+Pgi	COX6B
+Pgi	eIF4G2

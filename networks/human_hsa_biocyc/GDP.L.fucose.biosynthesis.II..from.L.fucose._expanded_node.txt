@@ -1,0 +1,9 @@
+gene	node_type
+FUK	gene
+FPGT	gene
+KLK5	PPI
+UBC	PPI
+PRKCSH	PPI
+TAF1	PPI
+MAX	PPI
+E2F4	PPI

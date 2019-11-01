@@ -1,0 +1,10 @@
+gene	node_type
+ODC1	gene
+SMS	gene
+SRM	gene
+ODC1	PPI
+SMS	PPI
+SRM	PPI
+TAL1	PPI
+TNFRSF1A	PPI
+NQO1	PPI

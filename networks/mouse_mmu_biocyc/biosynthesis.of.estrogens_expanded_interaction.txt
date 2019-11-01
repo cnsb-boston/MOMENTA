@@ -1,0 +1,8 @@
+V1	V2
+Sult1e1	Sult1e1
+Sult1e1	BMPR2
+Hsd17b11	Eed
+Cyp1a1	Ahr
+Cyp1a1	Sin3a
+Cyp3a13	Rxra
+Cyp2d10	Hsd11b1

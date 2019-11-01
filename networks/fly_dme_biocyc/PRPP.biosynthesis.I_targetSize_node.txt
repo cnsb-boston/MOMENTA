@@ -1,0 +1,5 @@
+gene	node_type
+DMEL\CG2246	gene
+DMEL\CG6767	gene
+DMEL\CG2246	PPI
+DMEL\CG6767	PPI

@@ -1,0 +1,4 @@
+V1	V2
+bmm	sala
+bmm	Hsp26
+bmm	eIF-4B

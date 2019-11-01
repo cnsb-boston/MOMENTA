@@ -1,0 +1,10 @@
+gene	node_type
+PLD	gene
+PCYT1	gene
+PCYT2	gene
+PLD	PPI
+PCYT1	PPI
+PCYT2	PPI
+MOE	PPI
+HPO	PPI
+RECQ4	PPI

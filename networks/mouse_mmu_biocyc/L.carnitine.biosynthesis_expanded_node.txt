@@ -1,0 +1,6 @@
+gene	node_type
+BBOX1	gene
+TMLHE	gene
+BBOX1	PPI
+TMLHE	PPI
+ZFP322A	PPI

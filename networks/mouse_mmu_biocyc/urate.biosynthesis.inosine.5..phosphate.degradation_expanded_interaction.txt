@@ -1,0 +1,5 @@
+V1	V2
+Nt5c2	Tal1
+Nt5c2	Socs1
+Impdh2	Fbxo32
+Impdh2	Eed

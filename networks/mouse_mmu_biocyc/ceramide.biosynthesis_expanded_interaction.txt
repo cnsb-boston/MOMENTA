@@ -1,0 +1,11 @@
+V1	V2
+Sptlc2	RPP38
+Sptlc2	EFL1
+Sptlc2	EME1
+Sptlc2	SCRIB
+Sptlc2	NA
+Sptlc2	WBP11
+Sptlc2	MRM1
+Sptlc2	SPTLC1
+Sptlc1	Pard3
+Sptlc1	Abca1

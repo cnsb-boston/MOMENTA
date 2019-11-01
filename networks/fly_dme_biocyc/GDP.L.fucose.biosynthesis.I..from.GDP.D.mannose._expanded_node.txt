@@ -1,0 +1,6 @@
+gene	node_type
+GMER	gene
+GMD	gene
+GMER	PPI
+GMD	PPI
+APRT	PPI

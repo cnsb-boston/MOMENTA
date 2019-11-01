@@ -1,0 +1,3 @@
+gene	node_type
+CG1673	gene
+CG1673	PPI

@@ -1,0 +1,3 @@
+gene	node_type
+SCSBETAG	gene
+SCSBETAG	PPI

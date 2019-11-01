@@ -1,0 +1,7 @@
+gene	node_type
+PCX	gene
+PC	gene
+GOT1L1	gene
+PCX	PPI
+PC	PPI
+GOT1L1	PPI

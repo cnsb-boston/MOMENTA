@@ -1,0 +1,6 @@
+V1	V2
+Ts	H2.0
+Dhfr	Epac
+Dhfr	Rbp4
+Dhfr	vg
+Dhfr	CG11999

@@ -1,0 +1,5 @@
+gene	node_type
+FPGS	gene
+SHMT	gene
+FPGS	PPI
+SHMT	PPI

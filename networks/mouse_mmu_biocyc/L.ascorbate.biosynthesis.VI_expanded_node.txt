@@ -1,0 +1,10 @@
+gene	node_type
+UGP2	gene
+GULO	gene
+RGN	gene
+UGDH	gene
+UGP2	PPI
+GULO	PPI
+RGN	PPI
+UGDH	PPI
+ISG15	PPI

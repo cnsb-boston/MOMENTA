@@ -1,0 +1,6 @@
+V1	V2
+Oat	HSD17B10
+Oat	Kcnma1
+Pycr2	Eed
+Pycr2	Cebpa
+Pycr1	Pycr1

@@ -1,0 +1,6 @@
+gene	node_type
+GCLC	gene
+GSS	gene
+GCLC	PPI
+GSS	PPI
+GCLM	PPI

@@ -1,0 +1,9 @@
+gene	node_type
+CES1A2	gene
+CES3	gene
+CES5A	gene
+TMEM25	PPI
+HSD17B10	PPI
+ACTA1	PPI
+BMPR2	PPI
+PTPRK	PPI

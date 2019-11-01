@@ -1,0 +1,6 @@
+V1	V2
+KFase	Pfdn6
+KFase	Pfdn1
+KFase	Pfdn5
+KFase	COX5B
+KFase	mgr

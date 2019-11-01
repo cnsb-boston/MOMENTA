@@ -1,0 +1,3 @@
+gene	node_type
+GGH	gene
+GGH	PPI

@@ -1,0 +1,9 @@
+V1	V2
+Oscillin	Tim8
+Oscillin	nwk
+Oscillin	4EHP
+Oscillin	Gyf
+Oscillin	PSR
+Oscillin	CG11095
+Oscillin	spheroide
+Oscillin	CG5641

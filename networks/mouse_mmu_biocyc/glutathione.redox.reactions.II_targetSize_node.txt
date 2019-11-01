@@ -1,0 +1,9 @@
+gene	node_type
+GSR	gene
+TXNDC12	gene
+GSR	PPI
+TXNDC12	PPI
+FKBP10	PPI
+EED	PPI
+SSBP2	PPI
+RAF1	PPI

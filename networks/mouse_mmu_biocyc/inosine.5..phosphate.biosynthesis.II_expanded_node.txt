@@ -1,0 +1,4 @@
+gene	node_type
+ADSL	gene
+ADSL	PPI
+FOXP3	PPI

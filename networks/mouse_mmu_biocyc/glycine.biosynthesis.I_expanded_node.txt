@@ -1,0 +1,6 @@
+gene	node_type
+SHMT1	gene
+SHMT2	gene
+SHMT1	PPI
+SHMT2	PPI
+SET	PPI

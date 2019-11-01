@@ -1,0 +1,3 @@
+gene1	gene	score
+Extl2	Extl2	0.111111111111111
+Extl2	Extl2	0.0123456790123457

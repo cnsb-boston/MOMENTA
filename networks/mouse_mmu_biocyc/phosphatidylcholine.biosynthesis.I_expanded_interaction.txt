@@ -1,0 +1,4 @@
+V1	V2
+Pcyt1a	Kpna2
+Pcyt1a	Fbxl2
+Pcyt1a	Mapk1

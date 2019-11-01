@@ -1,0 +1,11 @@
+gene	node_type
+ALG1	gene
+DPAGT1	gene
+ALG11	gene
+DPM1	gene
+ALG5	gene
+ALG1	PPI
+DPAGT1	PPI
+ALG11	PPI
+DPM1	PPI
+ALG5	PPI

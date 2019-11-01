@@ -1,0 +1,7 @@
+gene	node_type
+LIAS	gene
+LIPT2	gene
+LIAS	PPI
+LIPT2	PPI
+LMO2	PPI
+BMYC	PPI

@@ -1,0 +1,7 @@
+gene	node_type
+SCD4	gene
+SCD1	gene
+SCD2	gene
+SCD4	PPI
+SCD1	PPI
+SCD2	PPI

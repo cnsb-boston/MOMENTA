@@ -1,0 +1,4 @@
+gene	node_type
+PISD	gene
+PISD	PPI
+FOXA1	PPI

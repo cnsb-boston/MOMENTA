@@ -1,0 +1,6 @@
+gene	node_type
+CDO1	gene
+CYP17A1	PPI
+UBC	PPI
+VHL	PPI
+RAB38	PPI

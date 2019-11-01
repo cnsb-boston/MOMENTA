@@ -1,0 +1,3 @@
+gene	node_type
+DMEL\CG8526	gene
+DMEL\CG8526	PPI

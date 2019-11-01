@@ -1,0 +1,10 @@
+V1	V2
+Faa	bru3
+Faa	PhKgamma
+Faa	gammaTub37C
+Faa	CG32772
+Faa	coro
+Faa	CG8475
+Faa	CG7766
+Faa	CG11327
+hgo	hgo

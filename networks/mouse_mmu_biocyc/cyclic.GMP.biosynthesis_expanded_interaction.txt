@@ -1,0 +1,10 @@
+V1	V2
+Pde6g	Dnm2
+Pde6g	NA
+Npr2	Nppc
+Npr2	Npr2
+Npr1	Npr1
+Npr1	Sema3a
+Npr1	Plxna1
+Gucy2e	Eed
+Gucy2c	Nphp4

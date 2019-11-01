@@ -1,0 +1,12 @@
+V1	V2
+Uck1	Plcg2
+Uck2	Fyn
+Uck2	Grb2
+Aprt	PRKAA1
+Aprt	Eed
+Aprt	Kcnma1
+Hprt	Hprt
+Cda	Cda
+Dtymk	Ubc
+Dtymk	Eed
+Ak2	Uvrag

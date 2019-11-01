@@ -1,0 +1,9 @@
+V1	V2
+Tyr	Rab5a
+Tyr	Rab8a
+Tyr	Tfrc
+Tyr	Tyr
+Tyr	Canx
+Tyr	Rab6a
+Tyr	Tyrp1
+Tyr	Rab27a

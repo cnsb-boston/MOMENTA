@@ -1,0 +1,9 @@
+gene	node_type
+AMD1	gene
+AMD2	gene
+SMS	gene
+AMD1	PPI
+AMD2	PPI
+SMS	PPI
+WAS	PPI
+SHC1	PPI

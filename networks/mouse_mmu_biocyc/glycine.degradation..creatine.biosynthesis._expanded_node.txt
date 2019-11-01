@@ -1,0 +1,6 @@
+gene	node_type
+GATM	gene
+GAMT	gene
+GATM	PPI
+GAMT	PPI
+HSD17B10	PPI

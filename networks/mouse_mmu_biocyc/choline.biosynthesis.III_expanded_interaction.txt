@@ -1,0 +1,7 @@
+V1	V2
+Pld4	Irf8
+Pld4	Syp
+Pld3	Nphp4
+Pcyt1a	Kpna2
+Pcyt1a	Fbxl2
+Pcyt1a	Mapk1

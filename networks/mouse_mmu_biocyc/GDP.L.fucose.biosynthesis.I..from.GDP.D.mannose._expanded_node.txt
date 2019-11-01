@@ -1,0 +1,5 @@
+gene	node_type
+TSTA3	gene
+GMDS	gene
+TSTA3	PPI
+GMDS	PPI

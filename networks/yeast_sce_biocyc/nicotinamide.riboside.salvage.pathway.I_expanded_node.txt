@@ -1,0 +1,8 @@
+gene	node_type
+POF1	gene
+PRP40	PPI
+SSB2	PPI
+KSS1	PPI
+UBC7	PPI
+NTR2	PPI
+SSM4	PPI

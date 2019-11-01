@@ -1,0 +1,5 @@
+V1	V2
+Hmgcl	Irf8
+Hmgcl	HSD17B10
+Acat1	Pdp1
+Hmgcs1	HSD17B10

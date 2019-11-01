@@ -1,0 +1,3 @@
+gene1	gene	score
+Gclc	Gclm	0.222222222222222
+Gclm	Gclc	0.0493827160493827

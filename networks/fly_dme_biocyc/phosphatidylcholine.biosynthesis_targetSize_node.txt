@@ -1,0 +1,5 @@
+gene	node_type
+PCYT1	gene
+PCYT2	gene
+PCYT1	PPI
+PCYT2	PPI

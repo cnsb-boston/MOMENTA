@@ -1,0 +1,6 @@
+gene	node_type
+DMEL\CG3999	gene
+E3	gene
+151967_AT	gene
+DMEL\CG3999	PPI
+151967_AT	PPI

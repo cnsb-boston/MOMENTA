@@ -1,0 +1,5 @@
+gene	node_type
+GPT	gene
+GPT2	gene
+GPT	PPI
+GPT2	PPI

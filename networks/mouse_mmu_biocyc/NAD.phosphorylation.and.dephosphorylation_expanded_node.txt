@@ -1,0 +1,15 @@
+gene	node_type
+ACP7	gene
+ACP5	gene
+ACP2	gene
+ACP6	gene
+ACP4	gene
+NADK2	gene
+NADK	gene
+ACP7	PPI
+ACP5	PPI
+ACP2	PPI
+ACP6	PPI
+ACP4	PPI
+NADK2	PPI
+NADK	PPI

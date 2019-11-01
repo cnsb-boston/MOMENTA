@@ -1,0 +1,10 @@
+gene	node_type
+PNP	gene
+PNP2	gene
+APRT	gene
+PNP	PPI
+PNP2	PPI
+APRT	PPI
+PRKAA1	PPI
+EED	PPI
+KCNMA1	PPI

@@ -1,0 +1,8 @@
+V1	V2
+Gnpnat1	TRIM16
+Gnpnat1	BAG1
+Gnpnat1	ITGA1
+Gnpnat1	TNRC18
+Gnpnat1	Ryr1
+Gfpt1	Eed
+Gfpt2	Prkaca

@@ -1,0 +1,6 @@
+gene	node_type
+CDASE	gene
+BWA	gene
+CDASE	PPI
+BWA	PPI
+PAR-6	PPI

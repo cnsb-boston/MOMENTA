@@ -1,0 +1,7 @@
+gene	node_type
+FPGS	gene
+L(3)72DP	gene
+L(3)72DR	gene
+FPGS	PPI
+L(3)72DP	PPI
+L(3)72DR	PPI

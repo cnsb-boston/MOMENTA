@@ -1,0 +1,7 @@
+gene	node_type
+EAS	gene
+EAS	PPI
+HSP27	PPI
+CG8993	PPI
+RPS3	PPI
+CG12321	PPI

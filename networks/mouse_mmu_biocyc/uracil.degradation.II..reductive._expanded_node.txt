@@ -1,0 +1,9 @@
+gene	node_type
+DPYD	gene
+DPYS	gene
+UPB1	gene
+DPYD	PPI
+DPYS	PPI
+UPB1	PPI
+NULL	PPI
+DPYSL5	PPI

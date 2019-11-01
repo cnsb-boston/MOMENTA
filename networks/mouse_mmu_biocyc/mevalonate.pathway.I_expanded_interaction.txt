@@ -1,0 +1,5 @@
+V1	V2
+Hmgcs1	HSD17B10
+Idi1	Kcnma1
+Pmvk	Eed
+Acat1	Pdp1

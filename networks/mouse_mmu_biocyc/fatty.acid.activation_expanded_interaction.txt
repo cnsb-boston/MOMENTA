@@ -1,0 +1,7 @@
+V1	V2
+Acsbg1	CALM1
+Acsl3	Foxa1
+Acsl4	Eed
+Acsl4	Foxp3
+Acsl6	Phyh
+Acsl5	Foxa1

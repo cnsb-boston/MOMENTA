@@ -1,0 +1,5 @@
+gene	node_type
+GATA-RA	gene
+GATA	gene
+GATA-RA	PPI
+GATA	PPI

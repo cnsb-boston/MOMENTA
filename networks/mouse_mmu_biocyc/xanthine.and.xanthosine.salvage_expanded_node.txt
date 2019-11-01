@@ -1,0 +1,5 @@
+gene	node_type
+PNP	gene
+PNP2	gene
+PNP	PPI
+PNP2	PPI

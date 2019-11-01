@@ -1,0 +1,4 @@
+gene	node_type
+ASNS	gene
+ASNS	PPI
+EED	PPI

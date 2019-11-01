@@ -1,0 +1,6 @@
+gene	node_type
+SHMT	gene
+MTHFS	gene
+CG34424-RA	gene
+SHMT	PPI
+MTHFS	PPI

@@ -1,0 +1,9 @@
+V1	V2
+Aprt	Sucb
+Aprt	CG13220
+Aprt	Tspo
+Aprt	MCTS1
+Aprt	Gmd
+Aprt	Rab7
+Aprt	TrpRS
+ry	flw

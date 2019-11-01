@@ -1,0 +1,7 @@
+gene	node_type
+ARG	gene
+OAT	gene
+ARG	PPI
+OAT	PPI
+NULL	PPI
+PMS2	PPI

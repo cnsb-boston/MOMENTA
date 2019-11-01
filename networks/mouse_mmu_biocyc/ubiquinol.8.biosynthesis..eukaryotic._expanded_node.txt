@@ -1,0 +1,3 @@
+gene	node_type
+COQ2	gene
+COQ2	PPI

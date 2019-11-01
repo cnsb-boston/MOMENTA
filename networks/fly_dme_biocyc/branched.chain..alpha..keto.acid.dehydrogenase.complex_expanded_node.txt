@@ -1,0 +1,6 @@
+gene	node_type
+DMEL\CG17691	gene
+DMEL\CG8199	gene
+E3	gene
+DMEL\CG17691	PPI
+DMEL\CG8199	PPI

@@ -1,0 +1,14 @@
+V1	V2
+mino	Hn
+mino	mtm
+CdsA	Ost48
+CdsA	Scamp
+CdsA	Surf4
+CdsA	OstDelta
+CdsA	Sc2
+CdsA	CG11753
+CdsA	be
+CdsA	CG11857
+CdsA	CG31729
+CdsA	Tango9
+CdsA	Sec61alpha

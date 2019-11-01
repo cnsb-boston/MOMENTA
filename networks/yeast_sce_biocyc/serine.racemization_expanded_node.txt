@@ -1,0 +1,5 @@
+gene	node_type
+DSD1	gene
+FKS1	PPI
+KRE6	PPI
+SSB2	PPI

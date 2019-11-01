@@ -1,0 +1,7 @@
+gene	node_type
+PNPO	gene
+PDXK	gene
+PNPO	PPI
+PDXK	PPI
+KCNMA1	PPI
+PPP2CA	PPI

@@ -1,0 +1,3 @@
+gene	node_type
+NAMPT	gene
+NAMPT	PPI

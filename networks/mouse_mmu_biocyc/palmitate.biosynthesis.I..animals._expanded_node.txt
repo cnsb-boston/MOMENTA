@@ -1,0 +1,5 @@
+gene	node_type
+OXSM	gene
+OLAH	gene
+OXSM	PPI
+OLAH	PPI

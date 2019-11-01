@@ -1,0 +1,8 @@
+V1	V2
+Fpps	CG17134
+Fpps	Neos
+Fpps	Act5C
+Fpps	GstE1
+Fpps	vas
+Fpps	mtSSB
+Fpps	Rae1

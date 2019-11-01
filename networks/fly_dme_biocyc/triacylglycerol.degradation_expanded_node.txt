@@ -1,0 +1,8 @@
+gene	node_type
+DOB	gene
+BMM	gene
+DOB	PPI
+BMM	PPI
+SALA	PPI
+HSP26	PPI
+EIF-4B	PPI

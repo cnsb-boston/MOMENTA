@@ -1,0 +1,4 @@
+V1	V2
+Odc2	nmd
+Odc2	CG12116
+Odc1	CG12116

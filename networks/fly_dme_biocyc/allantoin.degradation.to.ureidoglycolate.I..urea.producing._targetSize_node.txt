@@ -1,0 +1,3 @@
+gene	node_type
+DMEL\CG6106	gene
+DMEL\CG6106	PPI

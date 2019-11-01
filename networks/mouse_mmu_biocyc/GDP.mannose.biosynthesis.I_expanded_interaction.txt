@@ -1,0 +1,8 @@
+V1	V2
+Mpi	Ankrd1
+Gmppb	Ikbkb
+Gpi1	Isg15
+Gpi1	HSD17B10
+Gpi1	Gpi1
+Gpi1	Eed
+Gpi1	Parp14

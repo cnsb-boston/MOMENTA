@@ -1,0 +1,3 @@
+gene	node_type
+DMEL\CG4335	gene
+DMEL\CG4335	PPI

@@ -1,0 +1,9 @@
+gene	node_type
+CHST15	gene
+CHST14	gene
+DSE	gene
+CHST15	PPI
+CHST14	PPI
+DSE	PPI
+STAT4	PPI
+NULL	PPI

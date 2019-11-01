@@ -1,0 +1,5 @@
+gene	node_type
+AAY	gene
+AAY	PPI
+PH4ALPHANE2	PPI
+SSTN	PPI

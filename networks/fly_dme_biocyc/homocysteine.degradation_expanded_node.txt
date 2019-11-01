@@ -1,0 +1,5 @@
+gene	node_type
+CBS	gene
+CBS	PPI
+TERM	PPI
+RHO1	PPI

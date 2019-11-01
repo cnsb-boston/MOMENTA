@@ -1,0 +1,8 @@
+gene	node_type
+ECHS1	gene
+ACAT1	gene
+ACAT2	gene
+ECHS1	PPI
+ACAT1	PPI
+ACAT2	PPI
+PDP1	PPI

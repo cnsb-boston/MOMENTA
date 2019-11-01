@@ -1,0 +1,3 @@
+V1	V2
+Mpi	Ankrd1
+Gmppb	Ikbkb

@@ -1,0 +1,4 @@
+gene	node_type
+GMD	gene
+GMD	PPI
+APRT	PPI

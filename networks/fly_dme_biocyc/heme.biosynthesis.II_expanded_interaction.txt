@@ -1,0 +1,9 @@
+V1	V2
+Updo	Hrs
+Updo	COX6B
+Coprox	p53
+Coprox	Jafrac2
+Coprox	Myo10A
+Coprox	dl
+Coprox	Diap2
+Coprox	mtDNA-helicase

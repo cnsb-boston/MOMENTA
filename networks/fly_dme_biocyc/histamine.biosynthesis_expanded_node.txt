@@ -1,0 +1,5 @@
+gene	node_type
+HDC	gene
+HDC	PPI
+ENDOA	PPI
+CG14113	PPI

@@ -1,0 +1,6 @@
+gene	node_type
+BHMT	gene
+MTR	gene
+BHMT	PPI
+MTR	PPI
+UBC	PPI

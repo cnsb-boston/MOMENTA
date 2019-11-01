@@ -1,0 +1,4 @@
+V1	V2
+G6pdx	G6pdx
+G6pdx	Tagln
+G6pdx	Nppa

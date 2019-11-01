@@ -1,0 +1,6 @@
+gene	node_type
+ODC1	gene
+ODC1	PPI
+TAL1	PPI
+TNFRSF1A	PPI
+NQO1	PPI

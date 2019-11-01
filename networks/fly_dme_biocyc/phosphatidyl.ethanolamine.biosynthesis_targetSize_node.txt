@@ -1,0 +1,4 @@
+gene	node_type
+PISD	gene
+CG5991-RB	gene
+PISD	PPI

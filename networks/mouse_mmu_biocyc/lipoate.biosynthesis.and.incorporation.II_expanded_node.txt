@@ -1,0 +1,4 @@
+gene	node_type
+LIAS	gene
+LIAS	PPI
+LMO2	PPI

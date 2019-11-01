@@ -1,0 +1,16 @@
+V1	V2
+ras	ras
+ras	CG2199
+ras	CG8152
+ras	CG13996
+ras	PCNA
+ras	SkpB
+ras	NA
+veil	mei-W68
+veil	CG5787
+veil	par-1
+veil	Bacc
+veil	RpL5
+veil	NA
+veil	COX7C
+ry	flw

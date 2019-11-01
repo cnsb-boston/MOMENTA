@@ -1,0 +1,4 @@
+gene	node_type
+ADK	gene
+ADK	PPI
+DESI1	PPI

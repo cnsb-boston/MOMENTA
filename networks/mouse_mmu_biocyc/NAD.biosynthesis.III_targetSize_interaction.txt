@@ -1,0 +1,3 @@
+gene1	gene	score
+Nampt	Nampt	0.222222222222222
+Nampt	Nampt	0.0493827160493827

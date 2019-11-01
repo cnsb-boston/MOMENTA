@@ -1,0 +1,8 @@
+V1	V2
+Mat2a	Setdb1
+Mat2a	Suv39h1
+Mat2a	Mid1ip1
+Mat1a	Mat1a
+Mat1a	Mid1ip1
+Ahcy	Traf1
+Ahcy	Ahcy

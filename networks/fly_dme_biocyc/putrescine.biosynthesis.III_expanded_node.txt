@@ -1,0 +1,7 @@
+gene	node_type
+ODC2	gene
+ODC1	gene
+ODC2	PPI
+ODC1	PPI
+NMD	PPI
+CG12116	PPI

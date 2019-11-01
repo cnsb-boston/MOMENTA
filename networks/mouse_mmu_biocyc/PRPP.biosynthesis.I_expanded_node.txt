@@ -1,0 +1,6 @@
+gene	node_type
+PRPS1	gene
+PRPS2	gene
+PRPS1	PPI
+PRPS2	PPI
+PARK2	PPI

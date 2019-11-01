@@ -1,0 +1,16 @@
+V1	V2
+lace	meigo
+lace	CG32758
+lace	GCS2beta
+lace	RpS27A
+lace	CG6126
+lace	CG4287
+lace	Hsc70-4
+lace	Vha13
+lace	RpL31
+lace	dhd
+lace	Spt-I
+lace	CG9986
+lace	RpS16
+lace	cid
+lace	Ubi-p63E

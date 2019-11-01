@@ -1,0 +1,17 @@
+V1	V2
+sPLA2	mRpS17
+GIIIspla2	CG17107
+GIIIspla2	Oda
+Pld	Moe
+Pld	hpo
+Pld	RecQ4
+sl	Pvr
+sl	CG32432
+sl	Pi3K92E
+norpA	Vamp7
+norpA	Galphaq
+norpA	slmb
+norpA	inaD
+norpA	trp
+norpA	ball
+Plc21C	ci

@@ -1,0 +1,10 @@
+gene	node_type
+CHST3	gene
+CHST15	gene
+CHST12	gene
+CHST11	gene
+CHST3	PPI
+CHST15	PPI
+CHST12	PPI
+CHST11	PPI
+STAT4	PPI

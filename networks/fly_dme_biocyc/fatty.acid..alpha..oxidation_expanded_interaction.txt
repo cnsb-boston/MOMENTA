@@ -1,0 +1,13 @@
+V1	V2
+Aldh	jbug
+Aldh	Tsr1
+Aldh	Raf
+Aldh	rictor
+Aldh	NA
+Aldh	Chc
+Aldh	foxo
+Aldh	Gale
+Aldh	Tsc1
+Aldh	Pdk1
+Aldh	S6k
+Aldh	S6kII

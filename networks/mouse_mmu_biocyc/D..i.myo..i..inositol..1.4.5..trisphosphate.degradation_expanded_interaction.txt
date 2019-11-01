@@ -1,0 +1,4 @@
+V1	V2
+Impa1	Eed
+Inpp5k	NA
+Inpp1	Kcnma1

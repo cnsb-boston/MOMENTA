@@ -1,0 +1,6 @@
+V1	V2
+Gal	TBPH
+Ect3	CG15308
+Ect3	Nost
+Ect3	sip1
+Ect3	MetRS-m

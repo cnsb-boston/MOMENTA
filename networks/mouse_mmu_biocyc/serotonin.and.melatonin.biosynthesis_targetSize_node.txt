@@ -1,0 +1,11 @@
+gene	node_type
+TPH2	gene
+TPH1	gene
+ASMT	gene
+DDC	gene
+AANAT	gene
+TPH2	PPI
+TPH1	PPI
+ASMT	PPI
+DDC	PPI
+AANAT	PPI

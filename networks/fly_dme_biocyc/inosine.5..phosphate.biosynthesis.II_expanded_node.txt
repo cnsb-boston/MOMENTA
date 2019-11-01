@@ -1,0 +1,7 @@
+gene	node_type
+ADSL	gene
+ADSL	PPI
+REPTOR-BP	PPI
+CG5642	PPI
+SOS	PPI
+UBCE2M	PPI

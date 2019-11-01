@@ -1,0 +1,6 @@
+gene	node_type
+DALG13	gene
+CG10166-RA	gene
+WOL	gene
+DALG13	PPI
+WOL	PPI

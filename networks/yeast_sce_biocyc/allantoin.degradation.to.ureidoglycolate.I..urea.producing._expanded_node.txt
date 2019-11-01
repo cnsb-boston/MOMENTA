@@ -1,0 +1,7 @@
+gene	node_type
+DAL1	gene
+DAL2	gene
+MRPL17	PPI
+SSE1	PPI
+BOI1	PPI
+SSB1	PPI

@@ -1,0 +1,14 @@
+V1	V2
+Uro	step
+Uro	CG9269
+Uro	obst-B
+Uro	vir-1
+Uro	her
+Uro	Cpr56F
+Uro	CG17777
+Uro	CG31797
+Uro	CG4810
+Uro	Oda
+Uro	Pex5
+Uro	Sox14
+Uro	CG13050

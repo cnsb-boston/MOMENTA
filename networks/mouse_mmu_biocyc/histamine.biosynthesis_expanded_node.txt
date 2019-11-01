@@ -1,0 +1,3 @@
+gene	node_type
+HDC	gene
+HDC	PPI

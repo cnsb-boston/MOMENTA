@@ -1,0 +1,17 @@
+V1	V2
+Gaa	Foxa1
+Amy1	Akap8
+Hk2	Irf4
+Hk2	Foxp3
+Hk2	Eed
+Hk2	Pea15a
+Hk2	Pou5f1
+Hk1	Iqcb1
+Hk1	Pfkm
+Hk1	Rabl2
+Hk3	Irf8
+Pygl	Irf4
+Pygl	Nphp4
+Pygl	Ripk3
+Pygb	CALM1
+Pygm	Set

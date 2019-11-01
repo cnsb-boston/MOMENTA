@@ -1,0 +1,5 @@
+gene	node_type
+UGDH	gene
+UXS1	gene
+UGDH	PPI
+UXS1	PPI

@@ -1,0 +1,10 @@
+gene	node_type
+NANP	gene
+NANS	gene
+CMAS	gene
+GNE	gene
+NANP	PPI
+NANS	PPI
+CMAS	PPI
+GNE	PPI
+POU5F1	PPI

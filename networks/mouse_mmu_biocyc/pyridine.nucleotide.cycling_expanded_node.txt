@@ -1,0 +1,5 @@
+gene	node_type
+NUDT12	gene
+NADSYN1	gene
+NUDT12	PPI
+NADSYN1	PPI

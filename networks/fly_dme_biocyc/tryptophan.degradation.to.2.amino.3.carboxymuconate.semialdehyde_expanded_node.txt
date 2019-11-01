@@ -1,0 +1,12 @@
+gene	node_type
+CN	gene
+V	gene
+KFASE	gene
+CN	PPI
+V	PPI
+KFASE	PPI
+PFDN6	PPI
+PFDN1	PPI
+PFDN5	PPI
+COX5B	PPI
+MGR	PPI

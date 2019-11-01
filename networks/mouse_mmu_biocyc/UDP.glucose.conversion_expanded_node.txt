@@ -1,0 +1,6 @@
+gene	node_type
+UGP2	gene
+PGM1	gene
+UGP2	PPI
+PGM1	PPI
+ISG15	PPI

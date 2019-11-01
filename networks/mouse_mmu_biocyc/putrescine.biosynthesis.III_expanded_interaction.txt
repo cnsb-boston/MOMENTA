@@ -1,0 +1,5 @@
+V1	V2
+Odc1	Odc1
+Odc1	Tal1
+Odc1	Tnfrsf1a
+Odc1	Nqo1

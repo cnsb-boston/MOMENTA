@@ -1,0 +1,15 @@
+V1	V2
+Ckmt1	Elk1
+Ckb	Invs
+Ckb	Mt3
+Ckb	HSD17B10
+Ckb	Eed
+Ckb	Rabl2
+Ckb	Patj
+Ckb	Asb9
+Ckm	TRIM63
+Ckm	Fbxo32
+Ckm	LRRK2
+Ckm	HSD17B10
+Ckm	Htt
+Ckm	Kcnma1

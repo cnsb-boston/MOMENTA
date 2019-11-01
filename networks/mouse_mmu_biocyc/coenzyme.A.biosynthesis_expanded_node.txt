@@ -1,0 +1,6 @@
+gene	node_type
+PPCS	gene
+PPCDC	gene
+PPCS	PPI
+PPCDC	PPI
+TAL1	PPI

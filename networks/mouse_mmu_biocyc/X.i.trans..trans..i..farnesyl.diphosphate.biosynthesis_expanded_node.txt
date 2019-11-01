@@ -1,0 +1,6 @@
+gene	node_type
+IDI1	gene
+IDI2	gene
+IDI1	PPI
+IDI2	PPI
+KCNMA1	PPI

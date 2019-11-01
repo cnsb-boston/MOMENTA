@@ -1,0 +1,5 @@
+gene	node_type
+HSD17B3	gene
+CYP11A1	gene
+HSD17B3	PPI
+CYP11A1	PPI

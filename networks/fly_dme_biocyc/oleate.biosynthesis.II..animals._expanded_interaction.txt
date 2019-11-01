@@ -1,0 +1,10 @@
+V1	V2
+Desat1	CG30480
+Desat1	PK2-R1
+Desat1	CG14005
+Desat1	CG2064
+Desat1	PAN2
+Desat1	AstC-R1
+Desat1	CG13526
+Desat1	SERCA
+Desat1	Akt1

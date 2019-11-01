@@ -1,0 +1,12 @@
+V1	V2
+Dld	HSD17B10
+Dld	Kcnma1
+Dld	Hspb2
+Dld	Htt
+Dld	Nphs2
+Dhtkd1	HSD17B10
+Ogdh	HSD17B10
+Ogdh	Hspb2
+Dlst	HSD17B10
+Dlst	Htt
+Dlst	Hspb2

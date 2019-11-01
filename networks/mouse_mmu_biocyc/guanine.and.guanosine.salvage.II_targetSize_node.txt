@@ -1,0 +1,5 @@
+gene	node_type
+HPRT	gene
+HPRT1	gene
+HPRT	PPI
+HPRT1	PPI

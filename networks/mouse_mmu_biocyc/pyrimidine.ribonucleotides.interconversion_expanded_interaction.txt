@@ -1,0 +1,13 @@
+V1	V2
+Nme2	RORA
+Nme2	Itgb1
+Nme2	Mapk14
+Nme2	NA
+Nme2	Ikbkb
+Nme2	RORB
+Nme2	Ppp2ca
+Nme2	Ryr1
+Nme2	Pik3r1
+Nme1	Uvrag
+Nme1	Rara
+Ctps2	Irf8
