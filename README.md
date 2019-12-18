@@ -3,6 +3,7 @@ Multi-Omic Metabolic Enrichment and Network Analysis
 
 Files from the publication. If you use these files, please cite:
 
+![](Outline.tiff)
 
 ## Gene Sets
 
